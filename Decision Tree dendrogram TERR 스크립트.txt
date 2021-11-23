@@ -1,0 +1,12 @@
+library(RinR)
+options(RinR_R_FULL_PATH=rpath) 
+
+mdl <- BlobToSObject(modelObj)
+
+img <- RGraph({
+  library("rpart");
+  library("rpart.plot");
+  class(mdl) <- "rpart";
+  rpart.plot(mdl, uniform=TRUE, digits=3, type=4, nn=TRUE, extra=101, cex=1.5, varlen =0, main="Modeled Classification Tree");})
+
+
