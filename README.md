@@ -1,9 +1,5 @@
 # DataVisualization_Data
 
-<Example URLs of TMS Layer>
-http://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/tile/{z}/{y}/{x}
-http://server.arcgisonline.com/ArcGIS/rest/services/World_Topo_Map/MapServer/tile/{z}/{y}/{x}
-
 <all_stocks_5yr 파일>
 
 all_stocks_5yr 파일 용량이 github에서 허용한 크기보다 커서 업로드가 되지 않습니다. 따라서 all_stocks_5yr_1과 all_stocks_5yr_2 파일로 나누어서 업로드 해 놓았습니다. 
@@ -24,3 +20,7 @@ On Time Performance Data_20년1월.csv 파일 용량이 github에서 허용한 �
 따라서 On Time Performance Data_20년1월_part01과 On Time Performance Data_20년1월_part02 파일로 나누어서 업로드 해 놓았습니다. 
 하나로 합쳐서 사용하실려면 2개 파일을 행 결합 방식으로 합치면(Spotfire_기초 12 영상 참조) On Time Performance Data_20년1월 데이터를 완전히 이용하실 수 있습니다. 
 단순히 컬럼 결합 방식을 연습해 보거나 기타 목적으로 사용하실거면 둘 중 하나의 파일만 사용하셔도 되겠습니다.
+
+<Example URLs of TMS Layer>
+http://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/tile/{z}/{y}/{x}
+http://server.arcgisonline.com/ArcGIS/rest/services/World_Topo_Map/MapServer/tile/{z}/{y}/{x}
