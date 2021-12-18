@@ -1,5 +1,6 @@
 # DataVisualization_Data
-<Example URL of TMS Layer>
+
+<Example URLs of TMS Layer>
 
 http://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/tile/{z}/{y}/{x}
 
