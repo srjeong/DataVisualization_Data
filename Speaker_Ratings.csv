@@ -1,0 +1,457 @@
+Attribute,Speaker ID,Count,Score
+Content,267,26,4
+Content,268,9,4.8
+Content,269,26,3.1
+Content,270,18,3.1
+Content,271,12,4.4
+Content,272,20,3.9
+Content,273,52,3.9
+Content,274,5,4.6
+Content,275,11,4.7
+Content,276,43,4
+Content,277,42,3.2
+Content,278,19,3.7
+Content,279,54,4
+Content,280,7,4.9
+Content,281,15,3.9
+Content,283,8,4.3
+Content,284,8,4.3
+Content,285,24,4.6
+Content,286,27,4.7
+Content,287,26,4.4
+Content,288,11,4.2
+Content,289,26,3.9
+Content,291,11,4.1
+Content,293,5,5
+Content,294,27,3.6
+Content,295,11,4.3
+Content,296,23,3.8
+Content,297,20,4.4
+Content,298,146,4.5
+Content,299,14,3.9
+Content,301,29,3.7
+Content,302,8,3.5
+Content,303,33,4.7
+Content,304,8,3.6
+Content,305,111,4.8
+Content,306,31,4.3
+Content,307,80,3.7
+Content,308,9,3.7
+Content,310,62,3.8
+Content,311,38,3.2
+Content,312,5,4.6
+Content,313,9,4.4
+Content,314,21,4.6
+Content,316,104,4
+Content,317,139,4.6
+Content,318,7,4.4
+Content,319,21,4.2
+Content,320,57,4.8
+Content,321,30,3.5
+Content,322,47,4.7
+Content,323,137,4.8
+Content,324,10,4.3
+Content,325,27,4.1
+Content,326,12,3.8
+Content,328,16,4.6
+Content,330,15,3.3
+Content,331,24,3.8
+Content,332,15,3.1
+Content,334,31,4.5
+Content,335,10,4.7
+Content,336,17,3.4
+Content,337,41,4.6
+Content,338,13,4.8
+Content,339,9,3.3
+Content,340,28,4
+Content,341,8,3.6
+Content,342,8,4.1
+Content,344,37,3.5
+Content,345,9,3.7
+Content,346,23,4.1
+Content,347,54,4.2
+Content,348,35,4.3
+Content,349,6,3.3
+Content,350,8,4.5
+Content,351,24,4.5
+Content,352,33,4.8
+Content,353,25,4.8
+Content,354,16,4.1
+Content,357,145,4
+Content,358,6,4.2
+Content,360,16,4.3
+Content,361,6,4.8
+Content,362,15,3.6
+Content,363,7,3.1
+Content,364,7,4.6
+Content,365,84,4.8
+Content,367,6,4.7
+Content,368,34,3.9
+Content,369,21,3.7
+Content,370,32,4.3
+Content,371,48,3.9
+Content,372,5,3.8
+Content,373,10,4.5
+Content,374,8,4
+Content,375,22,4.5
+Content,377,11,4.6
+Content,379,26,3.8
+Content,380,8,5
+Content,384,7,3.9
+Content,389,26,4
+Content,391,40,4.5
+Content,452,5,4.2
+Content,455,44,4.1
+Content,475,12,4.1
+Content,477,11,3.7
+Content,483,12,4.1
+Content,485,7,3.9
+Content,493,42,4.4
+Content,497,17,4.4
+Content,507,19,4.1
+Content,514,16,3.6
+Content,515,11,4.5
+Content,547,74,3.4
+Content,553,16,3.9
+Overall,267,26,4.1
+Overall,268,9,4.7
+Overall,269,26,3
+Overall,270,18,3.1
+Overall,271,12,4.4
+Overall,272,20,3.9
+Overall,273,52,4
+Overall,274,5,4.7
+Overall,275,11,4.6
+Overall,276,43,4
+Overall,277,42,3.3
+Overall,278,19,3.8
+Overall,279,54,4
+Overall,280,7,4.7
+Overall,281,15,3.9
+Overall,283,8,4.3
+Overall,284,8,4.5
+Overall,285,24,4.6
+Overall,286,27,4.7
+Overall,287,26,4.4
+Overall,288,11,4.3
+Overall,289,26,4
+Overall,291,11,4
+Overall,293,5,5
+Overall,294,27,3.7
+Overall,295,11,4.5
+Overall,296,23,3.8
+Overall,297,20,4.5
+Overall,298,146,4.5
+Overall,299,14,3.9
+Overall,301,29,3.7
+Overall,302,8,3.5
+Overall,303,33,4.7
+Overall,304,8,3.7
+Overall,305,111,4.7
+Overall,306,31,4.4
+Overall,307,80,3.6
+Overall,308,9,3.5
+Overall,310,62,3.8
+Overall,311,38,3.1
+Overall,312,5,4.5
+Overall,313,9,4.4
+Overall,314,21,4.6
+Overall,316,104,4.1
+Overall,317,139,4.6
+Overall,318,7,4.5
+Overall,319,21,4.2
+Overall,320,57,4.8
+Overall,321,30,3.4
+Overall,322,47,4.6
+Overall,323,137,4.5
+Overall,324,10,4.2
+Overall,325,27,4.2
+Overall,326,12,3.9
+Overall,328,16,4.6
+Overall,330,15,3.4
+Overall,331,24,3.9
+Overall,332,15,3.4
+Overall,334,31,4.5
+Overall,335,10,4.7
+Overall,336,17,3.4
+Overall,337,41,4.6
+Overall,338,13,4.7
+Overall,339,9,3.4
+Overall,340,28,3.9
+Overall,341,8,3.8
+Overall,342,8,4.2
+Overall,344,37,3.5
+Overall,345,9,4
+Overall,346,23,4
+Overall,347,54,4.1
+Overall,348,35,4.3
+Overall,349,6,3
+Overall,350,8,4.5
+Overall,351,24,4.5
+Overall,352,33,4.7
+Overall,353,25,4.8
+Overall,354,16,4.3
+Overall,357,145,3.7
+Overall,358,6,4.2
+Overall,360,16,4.3
+Overall,361,6,4.8
+Overall,362,15,3.7
+Overall,363,7,3.3
+Overall,364,7,4.6
+Overall,365,84,4.8
+Overall,367,6,4.7
+Overall,368,34,3.7
+Overall,369,21,3.7
+Overall,370,32,4.3
+Overall,371,48,4
+Overall,372,5,3.8
+Overall,373,10,4.3
+Overall,374,8,4.3
+Overall,375,22,4.4
+Overall,377,11,4.5
+Overall,379,26,3.9
+Overall,380,8,4.9
+Overall,384,7,4
+Overall,389,26,4.2
+Overall,391,40,4.3
+Overall,452,5,4.1
+Overall,455,44,4.2
+Overall,475,12,4
+Overall,477,11,3.5
+Overall,483,12,4.2
+Overall,485,7,3.9
+Overall,493,42,4.4
+Overall,497,17,4.3
+Overall,507,19,4.1
+Overall,514,16,3.6
+Overall,515,11,4.6
+Overall,547,74,3.5
+Overall,553,16,4
+Relevance,267,26,4
+Relevance,268,9,4.7
+Relevance,269,26,3.2
+Relevance,270,18,3.1
+Relevance,271,12,4.3
+Relevance,272,20,3.9
+Relevance,273,52,3.9
+Relevance,274,5,4.8
+Relevance,275,11,4.6
+Relevance,276,43,3.7
+Relevance,277,42,3.4
+Relevance,278,19,3.7
+Relevance,279,54,3.8
+Relevance,280,7,4.7
+Relevance,281,15,3.9
+Relevance,283,8,4.4
+Relevance,284,8,4.5
+Relevance,285,24,4.7
+Relevance,286,27,4.6
+Relevance,287,26,4.4
+Relevance,288,11,4.3
+Relevance,289,26,4.1
+Relevance,291,11,4
+Relevance,293,5,5
+Relevance,294,27,3.7
+Relevance,295,11,4.7
+Relevance,296,23,3.3
+Relevance,297,20,4.5
+Relevance,298,146,4.5
+Relevance,299,14,3.9
+Relevance,301,29,3.7
+Relevance,302,8,3.6
+Relevance,303,33,4.5
+Relevance,304,8,3.6
+Relevance,305,111,4.5
+Relevance,306,31,4.5
+Relevance,307,80,3.8
+Relevance,308,9,3.6
+Relevance,310,62,3.4
+Relevance,311,38,3.4
+Relevance,312,5,4.6
+Relevance,313,9,4.3
+Relevance,314,21,4.4
+Relevance,316,104,4
+Relevance,317,139,4.5
+Relevance,318,7,4.4
+Relevance,319,21,4.2
+Relevance,320,57,4.7
+Relevance,321,30,3.4
+Relevance,322,47,4.5
+Relevance,323,137,4.2
+Relevance,324,10,4.2
+Relevance,325,27,4.3
+Relevance,326,12,4
+Relevance,328,16,4.6
+Relevance,330,15,3.3
+Relevance,331,24,3.8
+Relevance,332,15,3.6
+Relevance,334,31,4.5
+Relevance,335,10,4.7
+Relevance,336,17,3
+Relevance,337,41,4.2
+Relevance,338,13,4.7
+Relevance,339,9,3.2
+Relevance,340,28,3.9
+Relevance,341,8,3.8
+Relevance,342,8,4
+Relevance,344,37,3.6
+Relevance,345,9,4.2
+Relevance,346,23,3.8
+Relevance,347,54,4
+Relevance,348,35,4.3
+Relevance,349,6,2.8
+Relevance,350,8,4.5
+Relevance,351,24,4.5
+Relevance,352,33,4.5
+Relevance,353,25,4.9
+Relevance,354,16,4.1
+Relevance,357,145,3.1
+Relevance,358,6,4
+Relevance,360,16,4.3
+Relevance,361,6,4.8
+Relevance,362,15,3.6
+Relevance,363,7,3.6
+Relevance,364,7,4.7
+Relevance,365,84,4.7
+Relevance,367,6,4.7
+Relevance,368,34,3.3
+Relevance,369,21,3.7
+Relevance,370,32,4.3
+Relevance,371,48,4
+Relevance,372,5,3.6
+Relevance,373,10,4.2
+Relevance,374,8,4.4
+Relevance,375,22,4.4
+Relevance,377,11,4.4
+Relevance,379,26,3.9
+Relevance,380,8,4.9
+Relevance,384,7,4
+Relevance,389,26,4
+Relevance,391,40,4
+Relevance,452,5,3.8
+Relevance,455,44,4.3
+Relevance,475,12,4.2
+Relevance,477,11,4
+Relevance,483,12,4.3
+Relevance,485,7,3.9
+Relevance,493,42,4.4
+Relevance,497,17,4.1
+Relevance,507,19,4.1
+Relevance,514,16,3.6
+Relevance,515,11,4.5
+Relevance,547,74,3.3
+Relevance,553,16,3.9
+Speaker presentation,267,26,4.3
+Speaker presentation,268,9,4.8
+Speaker presentation,269,26,2.7
+Speaker presentation,270,18,3.2
+Speaker presentation,271,12,4.7
+Speaker presentation,272,20,3.8
+Speaker presentation,273,52,4.2
+Speaker presentation,274,5,4.8
+Speaker presentation,275,11,4.5
+Speaker presentation,276,43,4.2
+Speaker presentation,277,42,3.2
+Speaker presentation,278,19,3.8
+Speaker presentation,279,54,4.1
+Speaker presentation,280,7,4.4
+Speaker presentation,281,15,4
+Speaker presentation,283,8,4.1
+Speaker presentation,284,8,4.6
+Speaker presentation,285,24,4.6
+Speaker presentation,286,27,4.8
+Speaker presentation,287,26,4.3
+Speaker presentation,288,11,4.4
+Speaker presentation,289,26,4
+Speaker presentation,291,11,3.8
+Speaker presentation,293,5,5
+Speaker presentation,294,27,3.7
+Speaker presentation,295,11,4.5
+Speaker presentation,296,23,4.2
+Speaker presentation,297,20,4.7
+Speaker presentation,298,146,4.6
+Speaker presentation,299,14,3.9
+Speaker presentation,301,29,3.8
+Speaker presentation,302,8,3.4
+Speaker presentation,303,33,4.8
+Speaker presentation,304,8,3.9
+Speaker presentation,305,111,4.8
+Speaker presentation,306,31,4.2
+Speaker presentation,307,80,3.3
+Speaker presentation,308,9,3.3
+Speaker presentation,310,62,4.1
+Speaker presentation,311,38,2.8
+Speaker presentation,312,5,4.4
+Speaker presentation,313,9,4.3
+Speaker presentation,314,21,4.7
+Speaker presentation,316,104,4.3
+Speaker presentation,317,139,4.8
+Speaker presentation,318,7,4.7
+Speaker presentation,319,21,4.3
+Speaker presentation,320,57,4.9
+Speaker presentation,321,30,3.4
+Speaker presentation,322,47,4.7
+Speaker presentation,323,137,4.6
+Speaker presentation,324,10,4
+Speaker presentation,325,27,4.2
+Speaker presentation,326,12,3.9
+Speaker presentation,328,16,4.7
+Speaker presentation,330,15,3.5
+Speaker presentation,331,24,4.1
+Speaker presentation,332,15,3.7
+Speaker presentation,334,31,4.5
+Speaker presentation,335,10,4.7
+Speaker presentation,336,17,3.9
+Speaker presentation,337,41,4.9
+Speaker presentation,338,13,4.6
+Speaker presentation,339,9,3.6
+Speaker presentation,340,28,3.8
+Speaker presentation,341,8,3.9
+Speaker presentation,342,8,4.5
+Speaker presentation,344,37,3.4
+Speaker presentation,345,9,4
+Speaker presentation,346,23,4.1
+Speaker presentation,347,54,4.1
+Speaker presentation,348,35,4.3
+Speaker presentation,349,6,2.8
+Speaker presentation,350,8,4.6
+Speaker presentation,351,24,4.5
+Speaker presentation,352,33,4.8
+Speaker presentation,353,25,4.7
+Speaker presentation,354,16,4.6
+Speaker presentation,357,145,4.1
+Speaker presentation,358,6,4.3
+Speaker presentation,360,16,4.3
+Speaker presentation,361,6,4.8
+Speaker presentation,362,15,3.9
+Speaker presentation,363,7,3.1
+Speaker presentation,364,7,4.4
+Speaker presentation,365,84,4.9
+Speaker presentation,367,6,4.7
+Speaker presentation,368,34,4.1
+Speaker presentation,369,21,3.8
+Speaker presentation,370,32,4.3
+Speaker presentation,371,48,4
+Speaker presentation,372,5,4
+Speaker presentation,373,10,4.3
+Speaker presentation,374,8,4.4
+Speaker presentation,375,22,4.2
+Speaker presentation,377,11,4.5
+Speaker presentation,379,26,4.1
+Speaker presentation,380,8,4.9
+Speaker presentation,384,7,4
+Speaker presentation,389,26,4.6
+Speaker presentation,391,40,4.4
+Speaker presentation,452,5,4.4
+Speaker presentation,455,44,4.3
+Speaker presentation,475,12,3.8
+Speaker presentation,477,11,2.9
+Speaker presentation,483,12,4.3
+Speaker presentation,485,7,4
+Speaker presentation,493,42,4.3
+Speaker presentation,497,17,4.4
+Speaker presentation,507,19,4.2
+Speaker presentation,514,16,3.6
+Speaker presentation,515,11,4.6
+Speaker presentation,547,74,3.7
+Speaker presentation,553,16,4.1
